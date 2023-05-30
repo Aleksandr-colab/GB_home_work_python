@@ -7,7 +7,7 @@ game_started = False
 r_number = 0
 counter = 0
 
-token = '5892260989:AAEhPmcKLGTrGU2MUzcdP-C4rk9X9GbU4xM'
+token = ''
 bot = telebot.TeleBot(token)
 
 markup = types.ReplyKeyboardMarkup(row_width=2)
