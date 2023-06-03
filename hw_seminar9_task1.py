@@ -9,3 +9,4 @@ uniq_list, uniq_counts = np.unique(numbers, return_counts=True)
 print(f'уникальные элементы {uniq_list}')
 print(f'их количество       {uniq_counts}')
 
+
